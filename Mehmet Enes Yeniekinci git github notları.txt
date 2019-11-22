@@ -1,0 +1,9 @@
+git sürüm kontrol sistemidir
+uzaktan kontrol sistemidir ve anlık değişiklikler sayesinde uzaktan projeyi organize halinde yapılabilir.
+richard açık kaynağı savunan biri
+linus giti başlatan adam linux un kurucusu ayrıca
+  git checkout komutunu kullanarak dalımızı değiştirebilir
+git diff ile yaptığımız farklılıkları kullanabilir
+git commit -m "" şeklinde commit ekleyebiliriz
+ git merge ..... yaptığım değişiklikleri mastere eklemek için
+
